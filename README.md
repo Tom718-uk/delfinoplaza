@@ -6,6 +6,8 @@ Hey there! Saw another request for this song yesterday. Decided to make it, as I
 
 Please be kind, as I am constantly learning how to improve my charting skills. As of now, there is no scheduled revision of this chart, meaning this could be the final draft of this song.
 
+Please note if you have downloaded this from GitHub the background quality will be poorer quality than downloads from the Discord. To download this head to the Trombone Champ Modding Discord and navigate to #custom-charts and search the name of this song.
+
 
 -- INSTALL INSTRUCTIONS
 
